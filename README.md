@@ -1,5 +1,15 @@
 # Multiple Expert Brainstorm Network
 
+![avatar](figs/fig1.png)
+
+![avatar](figs/fig2.png)
+
+![avatar](figs/fig3.png)
+
+![avatar](figs/tab1.png)
+
+![avatar](figs/tab2.png)
+
 ## Setup
 
 Datasets (Market-1501 and DukeMTMC-reID).
