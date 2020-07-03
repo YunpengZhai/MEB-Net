@@ -1,8 +1,10 @@
 # Multiple Expert Brainstorm Network
 
+Yunpeng Zhai, Qixiang Ye, Shijian Lu, Mengxi Jia, Rongrong Ji, Yonghong Tian. "Multiple Expert Brainstorming for Domain Adaptive Person Re-identification", ECCV 2020
+
 <!-- ![avatar](figs/fig1.png) -->
 
-![avatar-w70](figs/fig2.png)
+![avatar](figs/fig2.png)
 
 <!-- ![avatar](figs/fig3.png) -->
 
