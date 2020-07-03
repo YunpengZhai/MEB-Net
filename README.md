@@ -2,7 +2,7 @@
 
 <!-- ![avatar](figs/fig1.png) -->
 
-![avatar](figs/fig2.png)
+![avatar](figs/fig2.png){:width="80%"}
 
 <!-- ![avatar](figs/fig3.png) -->
 
@@ -43,7 +43,7 @@ bash train.sh dukemtmc market1501 densenet resnet50 inceptionv3
 ```
 ## Experiment results
 
-![avatar](figs/tab1.png)
+![avatar](figs/tab1.png){:width="80%"}
 
 <!-- | Src -> Tgt Dataset     | mAP | Rank-1 | Rank-5 | Rank-10 | 
 | :-------------------:  | :-------: | :-------------: |  :--------------:| :-------------: |
