@@ -1,14 +1,14 @@
 # Multiple Expert Brainstorm Network
 
-![avatar](figs/fig1.png)
+<!-- ![avatar](figs/fig1.png) -->
 
 ![avatar](figs/fig2.png)
 
-![avatar](figs/fig3.png)
+<!-- ![avatar](figs/fig3.png) -->
 
-![avatar](figs/tab1.png)
 
-![avatar](figs/tab2.png)
+
+<!-- ![avatar](figs/tab2.png) -->
 
 ## Setup
 
@@ -43,10 +43,12 @@ bash train.sh dukemtmc market1501 densenet resnet50 inceptionv3
 ```
 ## Experiment results
 
-| Src -> Tgt Dataset     | mAP | Rank-1 | Rank-5 | Rank-10 | 
+![avatar](figs/tab1.png)
+
+<!-- | Src -> Tgt Dataset     | mAP | Rank-1 | Rank-5 | Rank-10 | 
 | :-------------------:  | :-------: | :-------------: |  :--------------:| :-------------: |
 | DukeMTMC -> Market1501 | 76.0    | 89.9              | 96.0              | 97.5            | 
-| Market1501 -> DukeMTMC | 66.1    | 79.6              | 88.3              | 92.2            | 
+| Market1501 -> DukeMTMC | 66.1    | 79.6              | 88.3              | 92.2            |  -->
 
 ## Acknowledgement
 
