@@ -54,4 +54,4 @@ bash train.sh dukemtmc market1501 densenet resnet50 inceptionv3
 
 ## Acknowledgement
 
-Our code is based on [open-reid](https://github.com/Cysu/open-reid).
+Our code is based on [open-reid](https://github.com/Cysu/open-reid) and [MMT](https://github.com/yxgeee/MMT).
