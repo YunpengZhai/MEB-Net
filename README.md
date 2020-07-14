@@ -43,6 +43,17 @@ For example, (duke->market)
 ```
 bash train.sh dukemtmc market1501 densenet resnet50 inceptionv3
 ```
+
+### Step:3 Evaluate in the target domain
+
+```
+bash test.sh <target dataset> <architecture> <checkpoint_path>
+```
+For example, (market1501, densenet)
+```
+bash test.sh market1501 densenet logs/xxxx/xxxx-MEB-Net/checkpoint.pt.pth
+```
+
 ## Experiment results
 
 ![avatar](figs/tab1.png)
