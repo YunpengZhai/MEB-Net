@@ -66,3 +66,15 @@ bash test.sh market1501 densenet logs/xxxx/xxxx-MEB-Net/checkpoint.pt.pth
 ## Acknowledgement
 
 Our code is based on [open-reid](https://github.com/Cysu/open-reid) and [MMT](https://github.com/yxgeee/MMT).
+
+## Citation
+
+If you use this method or this code in your research, please cite as:
+```
+@article{zhai2020multiple,
+  title={Multiple Expert Brainstorming for Domain Adaptive Person Re-identification},
+  author={Zhai, Yunpeng and Ye, Qixiang and Lu, Shijian and Jia, Mengxi and Ji, Rongrong and Tian, Yonghong},
+  journal={arXiv preprint arXiv:2007.01546},
+  year={2020}
+}
+```
